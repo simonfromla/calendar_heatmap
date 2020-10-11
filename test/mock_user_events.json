@@ -1,0 +1,55 @@
+[
+  {
+    "summary": "Some task",
+    "startTime": 1533186000000,
+    "endTime": 1533189600000,
+    "allDay": false,
+    "startTimeZoneShift": 540,
+    "endTimeZoneShift": 540,
+    "iCalUID": "ovqlq6quk6i@google.com",
+    "createdTime": 1530785479000,
+    "updatedTime": 1530785479727,
+    "sequence": 0,
+    "googleCalendarId": "tester@drippin.io",
+    "googleEventId": "fakevaderwer8q2ei31tlq6quk6i_20200802T0500Z"
+  },
+  {
+    "summary": "My event!",
+    "startTime": 1533254400000,
+    "endTime": 1533340800000,
+    "allDay": true,
+    "startTimeZoneShift": 0,
+    "endTimeZoneShift": 0,
+    "iCalUID": "fake2244v330k81ogmmqg9ats@google.com",
+    "organizer": {
+      "email": "fakedpsp7hp120tlsugest8@group.calendar.google.com",
+      "displayName": "Our Cal"
+    },
+    "attendeeList": [],
+    "createdTime": 1532921791000,
+    "updatedTime": 1532921791615,
+    "sequence": 0,
+    "googleCalendarId": "fakehp120tlsuehst8@group.calendar.google.com",
+    "googleEventId": "fakes3424v33pmj7h0k81ogmg9ats"
+  },
+  {
+    "summary": "Daily Test Meeting",
+    "description": "Hi there,",
+    "startTime": 1533258900000,
+    "endTime": 1533259800000,
+    "allDay": false,
+    "startTimeZoneShift": 540,
+    "endTimeZoneShift": 540,
+    "iCalUID": "fake2342307l5n6afb03d4o2c_R20200703T011500@google.com",
+    "organizer": {
+      "email": "fakee89dpsq34p7hp20tls234ugehst8@group.calendar.google.com",
+      "displayName": "Test Cal"
+    },
+    "attendeeList": [],
+    "createdTime": 1528420173000,
+    "updatedTime": 1530579859875,
+    "sequence": 0,
+    "googleCalendarId": "fakeq23423420tlsugehst8@group.calendar.google.com",
+    "googleEventId": "fake21241212412450lmu9en35f3d4o2c_201808234233T0110Z"
+  }
+]
